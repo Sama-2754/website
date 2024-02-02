@@ -1,6 +1,6 @@
 
-pre{
-    background-color:black;
+.back{
+    background-color:gray;
     font-size:medium;
     font-style: italic;
     color: white;
@@ -10,8 +10,9 @@ img{
     width: 200px;
     margin: 20px  20px;
     float: right;
-      border-radius: 100px 100px 100px 100px;
+      border-radius: 50px 50px 50px 50px;
 }
+
 #topic{
     text-align: center;
     background-color: rgba(255, 255, 255, 0.24);
@@ -19,8 +20,6 @@ img{
     padding: 20px 20px 20px 20px ;
     border-style: solid;
     border-radius: 0 20px 0px 20px;
-
-
 }
 #background{
     width: 200px;
@@ -29,6 +28,14 @@ img{
 #color{
     color: rgb(69, 236, 18);
 }
-ol{
-color:pink ;
+.texts{
+    color: blanchedalmond;
 }
+.emphasis{
+    color: brown;
+}
+.rap{
+     width: 230px;
+     height: 180px;
+}
+
