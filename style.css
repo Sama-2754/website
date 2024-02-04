@@ -34,11 +34,7 @@
     width: 320px;
     height: 180px;
 }
-.son{
-     position: relative; 
-    bottom: 40px;
-    left: 800px;
-}
+
 .bdy{
     background-color: #2a232d
 }
@@ -47,39 +43,34 @@
     color: white;
     font-size: 50px;
 }
-.p1{
-    position: relative;
-    left: 500px;
-}
-.p2{
-    position: relative;
-    bottom: 81px;
-    left: 630px;
+.trending{
     font-size: 10px;
 }
 .box{
-    position: relative;
-    /* HELP */
-    bottom: 58px;
-    left: 800px;
     font-size: 10px;
 }
-.l2{
-    color:white;
+.container{
     position: relative;
-    bottom: 35px;
-    left: 630px;
-    font-size: 20px;
+    left: 130px;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
 }
-.l3{
+.subhead{
+    text-align: center; 
+    color: white; 
+    font-size: 70px;
+}
+.input{
     color:grey;
-    position: relative;
-    bottom: 25px;
-    left: 370px;
     font-size: 20px;
     font-style: italic;
     height: 30px;
     width: 300px;
 }
-
+.search{
+    color:white;
+    font-size: 20px;
+}
+   
 
