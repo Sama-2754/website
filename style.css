@@ -59,6 +59,7 @@
 }
 .box{
     position: relative;
+    /* HELP */
     bottom: 58px;
     left: 800px;
     font-size: 10px;
