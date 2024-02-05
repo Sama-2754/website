@@ -65,12 +65,16 @@
     color:grey;
     font-size: 20px;
     font-style: italic;
-    height: 30px;
-    width: 300px;
+    display: flex;
+    justify-content: center;
 }
-.search{
-    color:white;
-    font-size: 20px;
+.searchbox{
+    display: flex;
+    justify-content: center;
+}
+.label{
+    color: wheat;
+    font-size: 30px;
 }
    
 
